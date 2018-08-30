@@ -1,0 +1,4 @@
+command for creating script 
+1. sudo nano hello-world.sh           // CREATE THE SCRIPT FILE
+2.sudo chmod +x hello-world.sh          //MAKE THE FILE EXECUTABLE
+3.sh hello-world.sh or ./hello-world.sh  // RUN THE SCRIPT
